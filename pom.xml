@@ -573,6 +573,9 @@
 		</repository>
 	</repositories>
 	<properties>
+		  <sonar.projectKey>thierrylarouche_onedev</sonar.projectKey>
+  		<sonar.organization>thierrylarouche</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<commons.version>2.0.5</commons.version>
 		<k8shelper.version>1.0.28</k8shelper.version>
 		<slf4j.version>1.7.5</slf4j.version>
