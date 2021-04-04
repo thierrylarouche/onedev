@@ -573,7 +573,7 @@
 		</repository>
 	</repositories>
 	<properties>
-		  <sonar.projectKey>thierrylarouche_onedev</sonar.projectKey>
+		<sonar.projectKey>thierrylarouche_onedev</sonar.projectKey>
   		<sonar.organization>thierrylarouche</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<commons.version>2.0.5</commons.version>
